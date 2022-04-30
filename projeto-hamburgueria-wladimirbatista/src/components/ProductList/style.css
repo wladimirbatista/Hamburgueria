@@ -1,0 +1,8 @@
+.ProductList-container {
+  width: 940px;
+  height: 720px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
